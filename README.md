@@ -2,7 +2,7 @@
 
 A premium productivity application with insane 3D animations, particle effects, and AI-powered task generation.
 
-## ✨ Features
+##  Features
 
 ### Tasks Tab
 - **AI Task Generator** - Describe your goal and let AI create a complete task breakdown
@@ -16,7 +16,7 @@ A premium productivity application with insane 3D animations, particle effects, 
 - **Fullscreen Timer** - Distraction-free timer with pause/resume controls
 
 
-## 🎨 Tech Stack
+##  Tech Stack
 
 - **React 18** - UI framework
 - **Vite** - Build tool and dev server
